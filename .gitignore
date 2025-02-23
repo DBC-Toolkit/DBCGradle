@@ -5,9 +5,9 @@ bin/
 /.vscode/
 /plugin/gradle
 /run/
-/plugin/run/
-/testmod/run/
-/testdepmod/run/
+#/plugin/run/
+#/testmod/run/
+#/testdepmod/run/
 run/
 build/
 /eclipse/
