@@ -112,7 +112,7 @@ spotless {
 
 buildConfig {
     useJavaOutput()
-    this.packageName = "io.github.dbcToolkit"
+    this.packageName = "io.github.dbcToolkit.gradle"
     buildConfigField("VERSION", detectedVersion)
 }
 

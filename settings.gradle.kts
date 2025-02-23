@@ -1,4 +1,4 @@
-rootProject.name = "DBCToolkit"
+rootProject.name = "DBCGradle"
 
 
 pluginManagement {
