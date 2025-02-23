@@ -1,13 +1,8 @@
 .gradle
 .settings
-bin/
 /.idea/
 /.vscode/
-/plugin/gradle
 /run/
-#/plugin/run/
-#/testmod/run/
-#/testdepmod/run/
 run/
 build/
 /eclipse/
@@ -32,7 +27,6 @@ whitelist.json
 *.iml
 *.ipr
 *.iws
-src/main/resources/mixins.*.json
 *.bat
 *.DS_Store
 !gradlew.bat
